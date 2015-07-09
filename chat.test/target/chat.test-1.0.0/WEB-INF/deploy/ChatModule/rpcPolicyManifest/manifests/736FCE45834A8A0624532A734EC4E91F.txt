@@ -1,0 +1,2 @@
+serviceClass: ru.dataarmor.chat.test.client.ChatService
+path: 4372B514F3D3795482CBB005878F1979.gwt.rpc
